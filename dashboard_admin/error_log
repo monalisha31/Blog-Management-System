@@ -1,0 +1,66 @@
+[23-Nov-2020 14:31:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:31:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/author.php on line 89
+[23-Nov-2020 14:31:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/author.php on line 91
+[23-Nov-2020 14:31:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/author.php on line 107
+[23-Nov-2020 14:54:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:54:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:55:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:55:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category.php on line 50
+[23-Nov-2020 14:55:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category.php on line 52
+[23-Nov-2020 14:55:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category.php on line 64
+[23-Nov-2020 14:55:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:56:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:56:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/language.php on line 50
+[23-Nov-2020 14:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/language.php on line 52
+[23-Nov-2020 14:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/language.php on line 64
+[23-Nov-2020 14:56:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:56:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:58:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:58:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:59:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:59:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 14:59:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:06:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:06:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:06:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:06:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:06:57 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category_edit.php on line 21
+[23-Nov-2020 15:07:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:07:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:07:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:22:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:22:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:22:56 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category_edit.php on line 21
+[23-Nov-2020 15:23:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:27:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:27:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:27:07 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category_edit.php on line 21
+[23-Nov-2020 15:27:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:30:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:31:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:31:01 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category_edit.php on line 21
+[23-Nov-2020 15:31:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:43:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:43:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 15:43:36 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/category_edit.php on line 21
+[23-Nov-2020 15:43:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[23-Nov-2020 16:42:24 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[23-Nov-2020 16:42:24 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[23-Nov-2020 16:42:25 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 7
+[23-Nov-2020 16:42:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[23-Nov-2020 16:42:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[23-Nov-2020 16:44:14 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 7
+[23-Nov-2020 16:44:14 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[23-Nov-2020 16:44:14 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/functions.php on line 178
+[23-Nov-2020 16:45:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[24-Nov-2020 11:07:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 3
+[24-Nov-2020 18:30:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[24-Nov-2020 18:30:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[24-Nov-2020 18:30:25 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 7
+[24-Nov-2020 18:30:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[24-Nov-2020 18:30:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[25-Nov-2020 10:39:28 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[25-Nov-2020 10:39:28 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 7
+[25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
