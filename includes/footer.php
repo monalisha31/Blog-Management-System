@@ -1,17 +1,27 @@
     <footer class="s-footer">
 
-           <div class="s-footer__main">
+             <div class="s-footer__main">
             <div class="row">
                 
-                <div class="col-twelve tab-full s-footer__about">
+                <div class="col-six tab-full s-footer__about">
                         
                     <h4>About Arcadian</h4>
 
                     <p>A global community of readers and authors from all around the world. Language is not a barrier here, every language of books are appreciated and are given a honest review. Our aim is to appreciate literature and help authors and poets to find there targeted audience.</p>
 
-                </div> 
+                </div> <!-- end s-footer__about -->
 
-            
+                <div class="col-six tab-full s-footer__subscribe">
+                        
+                    <h4>Subscribe</h4>
+
+                    <p>Stay tuned to our latest posts discover some great book as soon as they released.</p>
+
+                    
+                      <P> <a class="btn full-width"  href="../subscribe.php">Subscribe</a></P>
+                    
+
+                </div> <!-- end s-footer__subscribe -->
 
             </div>
         </div> 

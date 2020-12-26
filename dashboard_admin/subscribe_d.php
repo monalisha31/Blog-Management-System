@@ -16,7 +16,7 @@ if(isset($_GET['delete_contact']) && $_GET['delete_contact'] != ''){
 <div class="container-fluid">
 <div class="card shadow mb-4">
   <div class="card-header py-3">
-    <h6 class="m-0 font-weight-bold text-primary">Contact Requests
+    <h6 class="m-0 font-weight-bold text-primary">Subscribe Requests
           
     </h6>
   </div>
@@ -25,7 +25,7 @@ if(isset($_GET['delete_contact']) && $_GET['delete_contact'] != ''){
           <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
               <thead>
    
-    <th>Contact ID</th>
+    <th>Subscribe ID</th>
  
     <th>Name</th>
     <th>Email Address</th>
@@ -37,7 +37,7 @@ if(isset($_GET['delete_contact']) && $_GET['delete_contact'] != ''){
   <tbody>
     <?php
 global $connection;
-$query = "SELECT * FROM contact WHERE C_message != 'Subscribe form'";
+$query = "SELECT * FROM contact WHERE C_message = 'Subscribe form' ";
 $result = mysqli_query($connection, $query);
   while ($row = mysqli_fetch_assoc($result)) {
     $contact_id = $row['C_id'];

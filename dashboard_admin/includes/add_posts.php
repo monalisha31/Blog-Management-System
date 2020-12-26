@@ -14,6 +14,8 @@
     <h6 class="m-0 font-weight-bold text-primary">Add Post
             
     </h6>
+      <br>
+ <p>All the fields are important. Only the final draft will be up for approval. </p>
   </div>
 
   <div class="card-body">
@@ -33,7 +35,8 @@
                <input type="text" name="title" placeholder="Post Title" class="form-control">
             </div>
             <div class="form-group">
-                <label>Post Author</label>
+                <label>Post Author
+                <br>(Please enter your full name)</label>
                 <input type="text" name="author" value="<?php echo $_SESSION['username'];?> "placeholder="Post Author" class="form-control">
 
                            </div>
@@ -76,11 +79,13 @@
         <label for="">Post Status</label>
       <select class="form-control" name="status">
         <option value="draft">Draft</option>
+        <option value="final draft">Final Draft</option>
         
       </select>
       </div>
        <div class="form-group">
-        <label for="">Post Image</label>
+        <label for="">Post Image
+        <br>(Please choose carefully as it will not changed later)</label>
         <input type="file" name="post_image"  class="form-control">
       </div>
      

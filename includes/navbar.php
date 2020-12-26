@@ -37,7 +37,7 @@
               
                 
                  <li><a href="reviewers.php" title="">Reviewers</a></li>
-                   <li><a href="s_guidelines.php" title="">Submit</a></li>
+                   <li><a href="submit.php" title="">Submit</a></li>
                  <li><a href="page-contact.php" title="" >About Us</a></li>
                 
              

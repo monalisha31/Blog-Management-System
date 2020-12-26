@@ -31,6 +31,23 @@ include 'includes/navbar.php';
 
             </div> 
         </div>
+                <div class="row pagination-wrap">
+            <div class="col-full">
+                <nav class="pgn" data-aos="fade-up">
+                    <ul>
+                        <li><a class="pgn__prev" href="#0">Prev</a></li>
+                        <?php
+  for ($i=1; $i <= $total ; $i++) { 
+    # code...
+    echo "<li".($page_id == $i ? '' : '')."'><a class='pgn__num' href='reviewers.php?page=".$i."'>$i</a></li>";
+  }
+  ?>
+  <li><a class="pgn__next" href="#0">Next</a></li>
+                      
+                    </ul>
+                </nav>
+            </div>
+        </div> 
 
         
 

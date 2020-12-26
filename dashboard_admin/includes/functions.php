@@ -126,18 +126,37 @@ function add_post(){
   function show_posts(){
   global $connection;
   global $role;
+ if(isset($_GET['page'])){
+        $page_id = $_GET['page'];
+      }
+      else{
+        $page_id = 1;
+      }
+  $number = 10;
+  $query1 = "SELECT * FROM post";
+$result1 = mysqli_query($connection, $query1);
+$all_post = mysqli_num_rows($result1);
+$total = ceil($all_post / $number);
+$start  = ($page_id - 1)* $number;
+ 
+
   $user = $_SESSION['userLogged'];
   $sql = mysqli_query($connection, "SELECT * FROM user WHERE U_email='$user'");
   $res = mysqli_fetch_array($sql);
   $username=$res['U_username'];
   $role= $res['U_role'];
+   $query2 = "SELECT * FROM post WHERE P_author='$username'";
+$result2 = mysqli_query($connection, $query2);
+$all_post1 = mysqli_num_rows($result2);
+$total1 = ceil($all_post1 / $number);
+$start1  = ($page_id - 1)* $number;
   if ($role === 'Admin') {
-     $query = "SELECT * FROM post";
+     $query = "SELECT * FROM post LIMIT $start , $number ";
     
   }
   else
   {
-    $query ="SELECT * FROM post WHERE P_author='$username'";
+    $query ="SELECT * FROM post WHERE P_author='$username' LIMIT $start1 , $number";
   }
 
   $result = mysqli_query($connection, $query);

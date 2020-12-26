@@ -1,5 +1,5 @@
 <?php
-$query = "SELECT * FROM book ORDER BY B_id DESC";
+$query = "SELECT * FROM book WHERE B_reviewer='Yes' ORDER BY B_id DESC";
 $result = mysqli_query($connection, $query);
 
 while($row = mysqli_fetch_assoc($result)){

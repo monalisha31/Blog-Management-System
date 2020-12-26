@@ -50,7 +50,7 @@ include 'includes/navbar.php';
   </div>
 </form>
      <div align="center">
-      <b><a href="forgot-password.php">Forgot Password</a></b>
+      <b><a href="forgot-password.php">Forget Password</a></b>
      </div>
 
             </div> <!-- s-content__main -->

@@ -95,7 +95,7 @@ while($row = mysqli_fetch_assoc($result)){
 
                 <aside class="pull-quote">
                     <blockquote>
-                    <p>Everyone is entitled to their opinion about the things they read (or watch, or listen to, or taste, or whatever). They’re also entitled to express them online.</p>
+                    <p>I hope you can spare a minute of your time to look at my blog and provide some feedback.</p>
                     </blockquote>
                 </aside>
                 <a class="btn btn--primary full-width" href="<?php echo $user_blog_url; ?>"><?php echo $user_blog; ?></a>

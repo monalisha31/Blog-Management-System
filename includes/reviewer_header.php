@@ -1,5 +1,18 @@
 <?php
-$query = "SELECT * FROM user WHERE U_status ='Verified' ORDER BY U_id DESC";
+if(isset($_GET['page'])){
+        $page_id = $_GET['page'];
+      }
+      else{
+        $page_id = 1;
+      }
+  $number = 9;
+  $query1 = "SELECT * FROM user WHERE U_status ='Verified'";
+$result1 = mysqli_query($connection, $query1);
+$all_post = mysqli_num_rows($result1);
+$total = ceil($all_post / $number);
+$start  = ($page_id - 1)* $number;
+$query = "SELECT * FROM user WHERE U_status ='Verified' ORDER BY U_id DESC LIMIT $start , $number";
+
 $result = mysqli_query($connection, $query);
 
 while($row = mysqli_fetch_assoc($result)){

@@ -22,7 +22,7 @@ include 'includes/navbar.php';
         <div class="row narrow">
             <div class="col-full s-content__header" data-aos="fade-up">
                 <h1 class="display-1 display-1--with-line-sep">Reviews</h1>
-                <a class="btn btn--primary" href="r_guidelines.php">Apply To be a reviewer</a>
+                <a class="btn btn--primary" href="reviewer_register.php">Apply To be a reviewer</a>
                 
             </div>
         </div>
@@ -31,7 +31,24 @@ include 'includes/navbar.php';
             <div class="entries">
                      <?php include 'includes/cat_post.php'; ?>
             </div> 
-        </div>       
+        </div>   
+            <div class="row pagination-wrap">
+            <div class="col-full">
+                <nav class="pgn" data-aos="fade-up">
+                    <ul>
+                        <li><a class="pgn__prev" href="#0">Prev</a></li>
+                        <?php
+  for ($i=1; $i <= $total ; $i++) { 
+    # code...
+    echo "<li".($page_id == $i ? '' : '')."'><a class='pgn__num' href='category.php?page=".$i."'>$i</a></li>";
+  }
+  ?>
+  <li><a class="pgn__next" href="#0">Next</a></li>
+                      
+                    </ul>
+                </nav>
+            </div>
+        </div>
 
     </section> 
         <?php

@@ -99,6 +99,7 @@
             <a class="collapse-item" href="comment.php">Publish Comments</a>
             <a class="collapse-item" href="language.php">Add Language</a>
             <a class="collapse-item" href="contact_d.php">Contact Requests</a>
+            <a class="collapse-item" href="subscribe_d.php">Subscribe Requests</a>
             <a class="collapse-item" href="review_d.php">Review Requests</a>
 
 
@@ -164,6 +165,11 @@
         <a class="nav-link" href="profile.php">
       
           <span>Profile</span></a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="https://the-arcadian.gitbook.io/getting-started-with-the-arcadian/">
+      
+          <span>Getting Started</span></a>
       </li>
 
       <!-- Divider -->

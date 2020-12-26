@@ -64,3 +64,145 @@
 [25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/header.php on line 7
 [25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/includes/navbar.php on line 5
 [25-Nov-2020 10:39:29 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadian.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:10:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:10:25 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:10:26 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 10:10:26 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:10:26 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:30:09 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:30:09 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:30:09 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 10:30:09 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:30:09 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:32:19 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:32:19 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:32:20 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 10:32:20 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:32:20 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:35:30 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:35:30 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 10:35:30 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 10:35:30 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 10:35:30 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:06:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:06:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:06:34 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 15:06:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:06:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:06:55 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:06:55 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:06:55 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 15:06:55 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:06:55 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:09:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:49 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/category_edit.php on line 21
+[29-Nov-2020 15:09:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:09:58 UTC] PHP Notice:  Undefined index: id in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/category_edit.php on line 21
+[29-Nov-2020 15:10:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:10:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:10:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:12:32 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:12:32 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:12:33 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 15:12:33 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:12:33 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:12:42 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 15:12:42 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:12:42 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/profile.php on line 3
+[29-Nov-2020 15:14:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 15:18:06 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:18:06 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 15:18:06 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 15:18:06 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 15:18:06 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 19:22:07 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 19:22:07 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 19:22:07 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 19:22:07 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 19:22:07 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 19:23:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 19:23:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 19:23:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[29-Nov-2020 19:23:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 19:23:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[29-Nov-2020 19:23:49 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[29-Nov-2020 19:23:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[29-Nov-2020 19:23:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[01-Dec-2020 09:48:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[01-Dec-2020 09:48:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[01-Dec-2020 09:48:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3
+[04-Dec-2020 16:11:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[04-Dec-2020 16:11:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[04-Dec-2020 16:11:34 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[04-Dec-2020 16:11:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[04-Dec-2020 16:11:34 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[05-Dec-2020 21:14:57 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[05-Dec-2020 21:14:57 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[05-Dec-2020 21:14:57 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[05-Dec-2020 21:14:57 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[05-Dec-2020 21:14:57 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[07-Dec-2020 17:54:23 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[07-Dec-2020 17:54:23 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[07-Dec-2020 17:54:23 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[07-Dec-2020 17:54:23 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[07-Dec-2020 17:54:23 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[12-Dec-2020 16:41:58 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[12-Dec-2020 16:41:58 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[12-Dec-2020 16:41:59 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[12-Dec-2020 16:41:59 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[12-Dec-2020 16:41:59 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[12-Dec-2020 16:43:21 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[12-Dec-2020 16:43:21 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[12-Dec-2020 16:43:21 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/functions.php on line 197
+[13-Dec-2020 10:42:00 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 10:42:00 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 10:42:01 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[13-Dec-2020 10:42:01 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 10:42:01 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 10:43:41 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 10:43:41 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 10:43:41 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[13-Dec-2020 10:43:41 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 10:43:41 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 12:04:36 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 12:04:36 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 12:04:36 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[13-Dec-2020 12:04:36 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 12:04:36 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 12:05:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/functions.php on line 164
+[13-Dec-2020 12:05:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/functions.php on line 164
+[13-Dec-2020 12:20:38 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 12:20:38 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[13-Dec-2020 12:20:39 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[13-Dec-2020 12:20:39 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[13-Dec-2020 12:20:39 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 06:36:59 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 06:36:59 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 06:37:00 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[16-Dec-2020 06:37:00 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 06:37:00 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 09:12:12 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 09:12:12 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 09:12:13 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[16-Dec-2020 09:12:13 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 09:12:13 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 16:56:48 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 16:56:48 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[16-Dec-2020 16:56:49 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[16-Dec-2020 16:56:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[16-Dec-2020 16:56:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[18-Dec-2020 06:54:37 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[18-Dec-2020 06:54:37 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[18-Dec-2020 06:54:37 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[18-Dec-2020 06:54:37 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[18-Dec-2020 06:54:37 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[20-Dec-2020 06:49:48 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[20-Dec-2020 06:49:48 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[20-Dec-2020 06:49:49 UTC] PHP Notice:  Undefined variable: user in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 7
+[20-Dec-2020 06:49:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/navbar.php on line 5
+[20-Dec-2020 06:49:49 UTC] PHP Notice:  Undefined index: userLogged in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/index.php on line 13
+[21-Dec-2020 12:19:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u625807408/domains/thearcadians.tech/public_html/dashboard_admin/includes/header.php on line 3

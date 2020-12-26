@@ -30,7 +30,7 @@ include 'includes/navbar.php';
               <div class="row narrow">
             <div class="col-full s-content__header" data-aos="fade-up">
                 <h1 class="display-1 display-1--with-line-sep">Register</h1>
-                <p class="lead">Submit the following form with correct details. We will review your application and will get back to you within the next 24 hours.</p>
+                <p class="lead">Submit the following form with correct details. We will review your application and will get back to you within the next 24 hours. Read the <a href = "r_guidelines.php"> reviewer's guidelines</a> for more details.</p>
                 
             </div>
         </div>

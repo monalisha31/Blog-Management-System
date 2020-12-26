@@ -32,3 +32,195 @@
 [24-Nov-2020 10:53:10 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadian.tech/public_html/includes/header.php on line 12
 [24-Nov-2020 10:53:10 UTC] PHP Notice:  Undefined variable: result in /home/u625807408/domains/thearcadian.tech/public_html/single.php on line 8
 [24-Nov-2020 10:53:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u625807408/domains/thearcadian.tech/public_html/single.php on line 8
+[30-Nov-2020 09:04:43 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[30-Nov-2020 09:04:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[30-Nov-2020 09:04:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[30-Nov-2020 15:22:47 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 12
+[01-Dec-2020 08:27:32 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 12
+[01-Dec-2020 08:28:44 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[01-Dec-2020 08:28:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[01-Dec-2020 08:28:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[01-Dec-2020 22:16:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[01-Dec-2020 22:16:54 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[01-Dec-2020 22:16:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[01-Dec-2020 22:16:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[01-Dec-2020 22:16:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[01-Dec-2020 22:16:56 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[01-Dec-2020 22:16:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[01-Dec-2020 22:16:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[01-Dec-2020 22:16:58 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[01-Dec-2020 22:16:59 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[01-Dec-2020 22:17:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[01-Dec-2020 22:17:00 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[01-Dec-2020 22:17:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[01-Dec-2020 22:17:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[01-Dec-2020 22:17:03 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[02-Dec-2020 16:53:19 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[02-Dec-2020 16:53:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[02-Dec-2020 16:53:30 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[02-Dec-2020 16:53:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[02-Dec-2020 16:53:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[02-Dec-2020 17:10:18 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[04-Dec-2020 04:50:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[04-Dec-2020 04:50:41 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[04-Dec-2020 04:50:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[04-Dec-2020 04:50:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[04-Dec-2020 09:10:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[04-Dec-2020 09:10:25 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[04-Dec-2020 09:10:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[04-Dec-2020 09:10:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[04-Dec-2020 09:13:33 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[04-Dec-2020 18:22:43 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[04-Dec-2020 23:58:50 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[04-Dec-2020 23:58:51 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[04-Dec-2020 23:59:45 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[04-Dec-2020 23:59:45 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[04-Dec-2020 23:59:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[05-Dec-2020 00:00:49 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[05-Dec-2020 00:00:49 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[06-Dec-2020 11:11:31 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[06-Dec-2020 13:32:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[06-Dec-2020 13:32:22 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[06-Dec-2020 13:32:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[06-Dec-2020 13:32:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[07-Dec-2020 06:00:50 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:03:26 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:03:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[07-Dec-2020 23:03:27 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[07-Dec-2020 23:03:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[07-Dec-2020 23:03:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[07-Dec-2020 23:03:44 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:04:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[07-Dec-2020 23:04:48 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[07-Dec-2020 23:04:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[07-Dec-2020 23:04:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[07-Dec-2020 23:04:59 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:05:05 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:57:54 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[07-Dec-2020 23:58:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[07-Dec-2020 23:58:26 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[07-Dec-2020 23:58:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[07-Dec-2020 23:58:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[08-Dec-2020 03:10:10 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[08-Dec-2020 03:29:12 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[08-Dec-2020 07:37:25 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[08-Dec-2020 08:28:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[08-Dec-2020 08:28:48 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[08-Dec-2020 08:28:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[08-Dec-2020 08:28:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[08-Dec-2020 10:58:48 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[08-Dec-2020 14:54:45 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[09-Dec-2020 21:37:14 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[09-Dec-2020 21:37:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[09-Dec-2020 21:37:52 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[09-Dec-2020 21:37:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[09-Dec-2020 21:37:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 00:38:27 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 00:38:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 00:38:49 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 00:38:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 00:38:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 01:11:00 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 01:11:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 01:11:26 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 01:11:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 01:11:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 02:17:09 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 02:18:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 02:18:22 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 02:18:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 02:18:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 04:42:54 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 04:43:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 04:43:20 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 04:43:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 04:43:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 08:26:55 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 14:11:46 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 14:12:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 14:12:16 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 14:12:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 14:12:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[10-Dec-2020 17:42:47 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[10-Dec-2020 17:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[10-Dec-2020 17:43:27 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[10-Dec-2020 17:43:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[10-Dec-2020 17:43:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[11-Dec-2020 01:16:41 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[11-Dec-2020 01:18:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[11-Dec-2020 01:18:01 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[11-Dec-2020 01:18:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[11-Dec-2020 01:18:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[12-Dec-2020 04:54:31 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[12-Dec-2020 04:54:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[12-Dec-2020 04:54:40 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[12-Dec-2020 04:54:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[12-Dec-2020 04:54:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[13-Dec-2020 05:01:37 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[14-Dec-2020 23:35:25 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[14-Dec-2020 23:38:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[14-Dec-2020 23:38:59 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 3
+[14-Dec-2020 23:38:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 5
+[14-Dec-2020 23:38:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 8
+[15-Dec-2020 17:09:21 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[15-Dec-2020 17:09:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[15-Dec-2020 17:09:28 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[15-Dec-2020 17:09:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[15-Dec-2020 17:09:28 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[15-Dec-2020 17:09:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[15-Dec-2020 17:09:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[15-Dec-2020 22:41:51 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[15-Dec-2020 22:42:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[15-Dec-2020 22:42:13 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[15-Dec-2020 22:42:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[15-Dec-2020 22:42:13 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[15-Dec-2020 22:42:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[15-Dec-2020 22:42:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[15-Dec-2020 23:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[15-Dec-2020 23:49:25 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[15-Dec-2020 23:49:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[15-Dec-2020 23:49:25 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[15-Dec-2020 23:49:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[15-Dec-2020 23:49:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[16-Dec-2020 04:43:23 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[16-Dec-2020 06:08:48 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[17-Dec-2020 19:50:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[17-Dec-2020 19:50:08 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[17-Dec-2020 19:50:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[17-Dec-2020 19:50:08 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[17-Dec-2020 19:50:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[17-Dec-2020 19:50:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[17-Dec-2020 23:50:41 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[18-Dec-2020 19:25:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[18-Dec-2020 19:25:14 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[18-Dec-2020 19:25:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[18-Dec-2020 19:25:14 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[18-Dec-2020 19:25:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[18-Dec-2020 19:25:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[19-Dec-2020 12:09:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/language.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 2
+[19-Dec-2020 12:09:56 UTC] PHP Notice:  Undefined variable: lang_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 10
+[19-Dec-2020 12:09:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 12
+[19-Dec-2020 12:09:56 UTC] PHP Notice:  Undefined variable: lang_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 15
+[19-Dec-2020 12:09:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 18
+[19-Dec-2020 12:09:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/lang_post.php on line 21
+[23-Dec-2020 00:08:27 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[23-Dec-2020 00:08:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[23-Dec-2020 00:08:33 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[23-Dec-2020 00:08:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[23-Dec-2020 00:08:33 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[23-Dec-2020 00:08:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[23-Dec-2020 00:08:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21
+[24-Dec-2020 18:32:15 UTC] PHP Notice:  Undefined variable: result in /home/u625807408/domains/thearcadians.tech/public_html/single.php on line 37
+[24-Dec-2020 18:32:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u625807408/domains/thearcadians.tech/public_html/single.php on line 37
+[24-Dec-2020 21:54:39 UTC] PHP Notice:  Undefined variable: title in /home/u625807408/domains/thearcadians.tech/public_html/includes/header.php on line 21
+[25-Dec-2020 16:29:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u625807408/domains/thearcadians.tech/public_html/category.php:19) in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 2
+[25-Dec-2020 16:29:40 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 10
+[25-Dec-2020 16:29:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 12
+[25-Dec-2020 16:29:40 UTC] PHP Notice:  Undefined variable: cat_id in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 15
+[25-Dec-2020 16:29:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 18
+[25-Dec-2020 16:29:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u625807408/domains/thearcadians.tech/public_html/includes/cat_post.php on line 21

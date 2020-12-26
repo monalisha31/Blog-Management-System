@@ -30,7 +30,7 @@ include 'includes/navbar.php';
               <div class="row narrow">
             <div class="col-full s-content__header" data-aos="fade-up">
                 <h1 class="display-1 display-1--with-line-sep">Submit book for review</h1>
-                <p class="lead">Submit the following form with corect details.</p>
+                <p class="lead">Submit the following form with correct details. Read the <a href = "s_guidelines.php"> submission guidelines</a> for more details.</p>
                 
             </div>
         </div>
@@ -91,7 +91,7 @@ include 'includes/navbar.php';
         <input type="file" name="book_image"  class="form-control">
       </div>
                <div class="form-group">
-    <label>Before clicking the submit button. Read the submission guidlines.</label>
+    <label>Before clicking the submit button. Read the submission guidelines.</label>
     
   </div>
 

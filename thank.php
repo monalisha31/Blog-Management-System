@@ -29,7 +29,7 @@ include 'includes/navbar.php';
               <div class="row narrow">
             <div class="col-full s-content__header" data-aos="fade-up">
                 <h1 class="display-1 display-1--with-line-sep">Thank You!!</h1>
-                <p class="lead">We have recieved your form and will get back to you within the next 24 hours.</p>
+                <p class="lead">We have recieved your form.</p>
                 
             </div>
         </div>

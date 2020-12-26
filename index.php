@@ -30,7 +30,7 @@ include 'includes/navbar.php';
 
                                 <h1><a href="index.php" title="">Connecting books with readers</a></h1>
 
-                          <a class="btn btn--primary" href="s_guidelines.php">Submit Book for Review</a>
+                          <a class="btn btn--primary" href="submit.php">Submit Book</a>
                             </div> 
                         </div> 
                     </div> 
@@ -43,9 +43,9 @@ include 'includes/navbar.php';
                             <div class="entry__content">
                                 <span class="entry__category"><a href="index.php">THE ARCADIAN</a></span>
 
-                                <h1><a href="index.php" title="">Start your reading journey with us</a></h1>
+                                <h1><a href="index.php" title="">Share your reviews with the world</a></h1>
 
-                         <a class="btn btn--primary" href="r_guidelines.php">Apply to be a reviewer</a>
+                         <a class="btn btn--primary" href="reviewer_register.php">Apply Now</a>
                             </div> 
                             
                         </div> 
@@ -81,7 +81,24 @@ include 'includes/navbar.php';
             <div class="entries">
                      <?php include 'includes/post_header.php'; ?>
             </div> 
-        </div>       
+        </div>   
+            <div class="row pagination-wrap">
+            <div class="col-full">
+                <nav class="pgn" data-aos="fade-up">
+                    <ul>
+                        <li><a class="pgn__prev" href="#0">Prev</a></li>
+                        <?php
+  for ($i=1; $i <= $total ; $i++) { 
+    # code...
+    echo "<li".($page_id == $i ? '' : '')."'><a class='pgn__num' href='index.php?page=".$i."'>$i</a></li>";
+  }
+  ?>
+  <li><a class="pgn__next" href="#0">Next</a></li>
+                      
+                    </ul>
+                </nav>
+            </div>
+        </div> 
 
     </section> 
    

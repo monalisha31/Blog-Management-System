@@ -139,116 +139,18 @@ include 'includes/navbar.php';
 
           <!-- Content Row -->
 
-          <div class="row">
+   
 
-            <!-- Area Chart -->
-            <div class="col-xl-8 col-lg-7">
-              <div class="card shadow mb-4">
-                <!-- Card Header - Dropdown -->
-                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-primary">New Users</h6>
-            
-                </div>
-                <!-- Card Body -->
-                <div class="card-body">
-                  <div class="chart-area">
-                  <iframe src="https://www.seethestats.com/stats/20555/NewUsers_065e63a34_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-                        <div class="col-xl-4 col-lg-5">
-              <div class="card shadow mb-4">
-                <!-- Card Header - Dropdown -->
-                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-primary">City Details</h6>
-             
-                </div>
-                <!-- Card Body -->
-                <div class="card-body">
-                  <div class="chart-pie pt-4 pb-2">
-                    <iframe src="https://www.seethestats.com/stats/20555/SessionsByCity_9bf2db82c_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                  </div>
-                     <div class="mt-4 text-center small">
-               
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-
-      <div class="row">
-
-            <!-- Content Column -->
-            <div class="col-lg-6 mb-4">
-
-              <!-- Project Card Example -->
-              <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Time Per Page</h6>
-                </div>
-                <div class="card-body">
-                  <iframe src="https://www.seethestats.com/stats/20555/TimeOnPage_e0958a0ef_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                </div>
-              </div>
-
-              <!-- Color System -->
-              <div class="row">
-          
-             
-         
-              <div class="col-lg-6 mb-4">
-                   <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Country Data</h6>
-                </div>
-                <div class="card-body">
-               <iframe src="https://www.seethestats.com/stats/20555/SessionsByCountry_cf641e4db_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                </div>
-              </div>
-              </div>
-            </div>
-
-            </div>
-
-            <div class="col-lg-6 mb-4">
-
-              <!-- Illustrations -->
-              <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Users Data</h6>
-                </div>
-                <div class="card-body">
-                 <iframe src="https://www.seethestats.com/stats/20555/Users_01589fad8_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                </div>
-              </div>
-
-              <!-- Approach -->
-              <div class="card shadow mb-4">
-                <div class="card-header py-3">
-                  <h6 class="m-0 font-weight-bold text-primary">Keywords</h6>
-                </div>
-                <div class="card-body">
-                 <iframe src="https://www.seethestats.com/stats/20555/SessionsByKeyword_def546d0f_ifr.html" style="width:100%;height:100%;border:none;" scrolling="no" frameborder="0"></iframe>
-                </div>
-              </div>
-
-            </div>
-          </div>
-
-        </div>
 
 
 
 
         <!-- /.container-fluid -->
 
-      </div>
+      
       <?php } ?>
       <?php
-        if ($role === 'Reviewer'){
+        if ($role === 'Reviewer' || $role === 'Admin'){
         ?>
 
                <div class="card shadow mb-4">
@@ -256,7 +158,7 @@ include 'includes/navbar.php';
                   <h6 class="m-0 font-weight-bold text-primary">Welcome to Arcadian!!</h6>
                 </div>
                 <div class="card-body">
-                  <p>We are honoured to have you as one of our reviewer. Start sharing your words with the readers from all around the world. If this is first time here, Please move to the "Help" section in the navbar to get started.</p>
+                  <p>We are honoured to have you as one of our <?php echo $role; ?>. Start sharing your words with the readers from all around the world. If this is first time here, Please move to the <a href="https://the-arcadian.gitbook.io/getting-started-with-the-arcadian/"> "Getting Started"</a> section in the navbar to get started.</p>
           
                 </div>
 

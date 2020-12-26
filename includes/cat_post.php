@@ -1,6 +1,19 @@
 <?php
 (isset($_GET['cat_id'])) ? $cat_id = $_GET['cat_id'] : header("Location: index.php");
-$query = "SELECT * FROM post WHERE P_category_id=$cat_id ORDER BY P_id DESC";
+if(isset($_GET['page'])){
+        $page_id = $_GET['page'];
+      }
+      else{
+        $page_id = 1;
+      }
+  $number = 9;
+  $query1 = "SELECT * FROM post WHERE P_category_id=$cat_id AND P_status='published'";
+$result1 = mysqli_query($connection, $query1);
+$all_post = mysqli_num_rows($result1);
+$total = ceil($all_post / $number);
+$start  = ($page_id - 1)* $number;
+$query = "SELECT * FROM post WHERE P_category_id=$cat_id AND P_status='published' ORDER BY P_id DESC LIMIT $start , $number";
+
 $result = mysqli_query($connection, $query);
 if(mysqli_num_rows($result) === 0) {
   echo "<p>No posts here!</p>";

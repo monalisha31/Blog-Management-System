@@ -9,6 +9,8 @@ include 'includes/header.php';
 
 <body id="top"> 
 
+
+
           <?php
 include 'includes/navbar.php';
 ?>
@@ -52,7 +54,7 @@ while($row = mysqli_fetch_assoc($result)){
 
             <div class="entry__media col-full">
                 <div class="entry__post-thumb">
-                    <img src="dashboard_admin/images/<?php echo $post_image;?>" 
+                    <img src="images/blog_banner.jpg" 
                         
                          sizes="(max-width: 2000px) 100vw, 2000px" alt="">
                 </div>
@@ -83,9 +85,11 @@ while($row = mysqli_fetch_assoc($result)){
             
                            <div class="entry__taxonomies">
                     <div class="entry__cat">
-                        <h5>If you like this post, please share it!! </h5>
+                        <h5>If you like this post, please like and share it!! </h5>
                         <span class="entry__tax-list">
                              <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+       
+                                 
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
 <a class="a2a_button_facebook"></a>
 <a class="a2a_button_twitter"></a>
@@ -97,6 +101,28 @@ while($row = mysqli_fetch_assoc($result)){
 <a class="a2a_button_telegram"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
+
+
+                            
+                           
+                        </span>
+                    </div>
+                </div>
+                           <div class="entry__cat">
+                     
+                        <span class="entry__tax-list">
+                             <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                                 <!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="custom" data-btn_size="40" data-f_size="15" data-icon_size="17" data-icon_l_c="#efe7e7" data-icon_l_c_v="#152ce0" data-icon_d_c="#eed9d9" data-icon_d_c_v="#1427e5" data-label_c="#f1d8d8" data-label_c_v="#ece1e1" data-counter_l_c="#f7f0f0" data-counter_d_c="#ede4e4" data-bg_c="#474242" data-ef_voting="push" data-counter_count="true"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
+       
+                                 
+
+</div>
+
+
+
                             
                            
                         </span>
